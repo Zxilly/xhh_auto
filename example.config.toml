@@ -29,7 +29,7 @@ check_update = true
 # 是否开启调试模式, [false]
 debug = false
 # 是否参与互助计划, [true]
-join_xhhauto = true
+join_xhhauto = false
 # 互助计划说明:
 # 开启后会自动关注我的账号和我的粉丝的账号
 # 也就是让使用本脚本的用户都能互相关注
@@ -72,7 +72,7 @@ os_type = 1
 # 表明客户端来自哪个渠道,仅安卓客户端有效, ["heybox_yingyongbao"]
 channel = "heybox_yingyongbao"
 # 系统版本,对应Android或者IOS版本, ["8.1"]
-os_version = "8.1"
+os_version = "10"
 # 随机延时倍数, [1.0]
 # 设为0.5代表延时时间缩短一半,以此类推
 # 如果需要手动控制延时就设为0
